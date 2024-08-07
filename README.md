@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hector Tovar</h1>
+<h1 align="center">Greetings ✌🏼, I'm Hector Tovar</h1>
 <h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
+
+<h2 align="left">👤 About Me </h2>
+
+<p align="left">
+  I am a student of Robotics and Digital Systems Engineering at Tecnológico de Monterrey. Passionate about programming and technology, I enjoy participating in hackathons where I can apply my knowledge and collaborate with other tech enthusiasts. I am constantly motivated to learn and face new challenges that allow me to grow both personally and professionally.
+</p>
 
 - 🔭 I’m currently working on an app **Ambi**
 

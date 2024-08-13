@@ -21,7 +21,6 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
 <a href="mailto:h.tovarm07@gmail.comm?Subject=Hello%20"><img align="center" src="https://skillicons.dev/icons?i=gmail"></a>
 <a href="https://linkedin.com/in/hectortovarm"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://instagram.com/htovar7"><img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="[https://open.spotify.com/user/31gcw4vgutkgoxc4hf25vlzo3csy](https://user-images.githubusercontent.com/33750251/59486049-ec63fa80-8e6f-11e9-8d17-9a31324a63e8.png)"><img align="center" src="https://i.pinimg.com/474x/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg" height="50" width="50" style="rounded">
 
 </p>
 

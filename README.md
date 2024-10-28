@@ -25,7 +25,7 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,swift,react,matlab,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,react,matlab,arduino" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Greetings ✌🏼, I'm Hector Tovar</h1>
-<h3 align="center">A passionate software developer from Mexico 🇲🇽</h3>
+<h3 align="center">A passionate software developer from Mexico! </h3>
 
 <h2 align="left">👤 About Me </h2>
 <p align="left">
@@ -12,7 +12,7 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
   - **E-mail:** h.tovarm07@gmail.com
   - **Discord:** lalomora
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eo14UJ5bm72PJ71K3LB9FHX2FwcOz2TZ/view?usp=drive_link](https://drive.google.com/file/d/1eo14UJ5bm72PJ71K3LB9FHX2FwcOz2TZ/view?usp=drive_link](https://drive.google.com/file/d/1rrQ0p3acgrl49EpWqGxRbUmV-ZMygMWU/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eo14UJ5bm72PJ71K3LB9FHX2FwcOz2TZ/view?usp=drive_link](https://drive.google.com/file/d/1VJzqVVJhF6SBxvAZ7kOtM14iTa2M0UXB/view?usp=drive_link](https://drive.google.com/file/d/1VJzqVVJhF6SBxvAZ7kOtM14iTa2M0UXB/view?usp=drive_link))
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,14 +25,14 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,react,matlab,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,cs,matlab,mysql,html,css,tailwind" />
   </a>
 </p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arduino,raspberrypi,react" />
   </a>
 </p>
 

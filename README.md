@@ -6,7 +6,7 @@
 I am a student of Robotics and Digital Systems Engineering at Tecnológico de Monterrey. Passionate about programming and technology. I am currently part of @RoBorregos as an Electronic Member. I am constantly motivated to learn and face new challenges that allow me to grow both personally and professionally.
 </p>
 
-- 🌱 I’m currently learning **React** and **React Native**
+- 🌱 I’m currently learning **ROS2** and **LLM**
 - 📫 How to reach me:
   - **E-mail:** h.tovarm07@gmail.com
   - **Discord:** lalomora

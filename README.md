@@ -23,25 +23,39 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
   </a>
 </div>
 
-<h2>My skills 🎸</h2>
-</p>
-  <h3 align="center">Languages:</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,cs,matlab,mysql,html,ts,c" />
-    </a>
-</p>
+<h2 align="center">My Skills 🎸</h2>
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">🧠 Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arduino,raspberrypi,react,ubuntu,docker,vercel,next,prisma,tailwindcss,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,matlab,html,mysql" />
   </a>
 </p>
 
-<h3 align="center">Knowledge on:</h3>
+<h3 align="center">🛠️ Tools & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,docker,vercel" />
+  </a>
+</p>
+
+<h3 align="center">⚙️ Development Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  </a>
+</p>
+
+<h3 align="center">🧩 Web Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwindcss,prisma,fastapi" />
+  </a>
+</p>
+
+<h3 align="center">🎨 Creative Software</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps" />
   </a>
 </p>

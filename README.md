@@ -28,14 +28,14 @@ I am a student of Robotics and Digital Systems Engineering at Tecnológico de Mo
   <h3 align="center">Languages:</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,cs,matlab,mysql,html,css,tailwind" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,js,cs,matlab,mysql,html,ts,c" />
     </a>
 </p>
 
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arduino,raspberrypi,react,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,arduino,raspberrypi,react,ubuntu,docker,vercel,next,prisma,tailwindcss,fastapi" />
   </a>
 </p>
 
